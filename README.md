@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=PankajMehar&label=Profile%20views&color=0e75b6&style=flat)
 # 👋 Hi, I’m Pankaj Mehar  
 
 **AI Engineer | Co-Founder at Nsemble AI | Mechanical & Power Engineer**  
